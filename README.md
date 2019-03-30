@@ -1,2 +1,2 @@
 # WindOs
-the new windows
+The NEW OS
